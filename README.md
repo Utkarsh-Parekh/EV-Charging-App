@@ -37,6 +37,12 @@ This app's interface is fully designed based on a Figma prototype. All visual el
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/a7bae427-e18e-45f3-adbe-d8b4add90196
+
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository  
